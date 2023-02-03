@@ -1,0 +1,15 @@
+body{
+    background: gray;
+    color: #0000;
+    margin: 0 auto;
+    width: 900px;
+}
+
+a{
+    color: purple;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
